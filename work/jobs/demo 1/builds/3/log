@@ -1,0 +1,10 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace D:\Jenkins plugins\jenkins-sample-plugin\work\jobs\demo 1\workspace
+FSSCM.checkout C:\Users\viraj.chhaiya\eclipse-workspace\ex2\src to D:\Jenkins plugins\jenkins-sample-plugin\work\jobs\demo 1\workspace
+New file: main\java\com\examples\ex2\App.java
+New file: test\java\com\examples\ex2\AppCustomTest.java
+New file: test\java\com\examples\ex2\AppTest.java
+
+FSSCM.check completed in 86 milliseconds
+Hello, c!
+Finished: SUCCESS
